@@ -7,7 +7,7 @@ import { BsPerson } from "react-icons/bs";
 function SignUp() {
     return (
         <div className='w-full h-screen flex justify-center items-center'>
-            <div className='w-[500px] h-[600px] my-auto bg-indigo-700 flex flex-col rounded-md '>
+            <div className='w-[500px] h-[600px] my-auto bg-purple-700 flex flex-col rounded-md '>
                 <div>
                     <div className='p-5'>
                         <Link to='/'><IoMdArrowBack className='text-[30px] text-white' /></Link>

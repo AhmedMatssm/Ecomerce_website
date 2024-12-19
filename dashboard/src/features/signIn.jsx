@@ -28,7 +28,7 @@ function SignIn() {
                         </div>
                     </div>
                     <div className="flex justify-center items-center">
-                        <button className=" w-[260px] h-10 bg-indigo-600 text-white rounded-md px-2 py-1">LOGIN</button>
+                        <button className=" w-[260px] h-10 bg-purple-700 text-white rounded-md px-2 py-1">LOGIN</button>
                     </div>
                     <div className='text-center mt-5'>
                         <p className='text-gray-500'>Don't have an account? <Link to="/signUp" className='text-black'>Sign up</Link></p>

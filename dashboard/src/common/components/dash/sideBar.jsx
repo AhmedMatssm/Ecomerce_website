@@ -14,11 +14,11 @@ import { IoIosLogOut } from "react-icons/io";
 function SideBar() {
     return (
         <div>
-            <div className='w-full min-h-screen h-auto  bg-slate-50'>
+            <div className='w-full h-auto min-h-screen  bg-white shadow-ShadowSide'>
                 <div className=' flex justify-center items-center'>
                     <img className='w-40 ' src={logo} alt="logo" />
                 </div>
-                <div className='my-12 pl-5'>
+                <div className='my-10 pl-5'>
                     <div className='  p-3 mb-3'>
                         <Link to='/' className='flex justify-start items-center gap-3'>
                             <span><RxDashboard /></span>
